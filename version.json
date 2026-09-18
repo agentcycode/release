@@ -1,0 +1,8 @@
+{
+  "version": "1.2.27",
+  "notes": "首个可检查更新的版本",
+  "url": "https://github.com/agentcycode/release",
+  "assets": {
+    "windows-lite": "https://github.com/agentcycode/release/raw/main/lite/AgentcyCode%20Lite_1.2.27_x64-setup.exe"
+  }
+}
