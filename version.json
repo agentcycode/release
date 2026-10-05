@@ -1,5 +1,5 @@
 {
   "version": "1.2.36",
-  "notes": "修复部分网络环境下「额度未知」与网关连接失败;修复 Windows 启动时闪现命令行窗口。建议更新。",
+  "notes": "Fixes 'quota unknown' and gateway connection failures on certain networks, and removes a console window that briefly flashed at launch on Windows. Update recommended.",
   "url": "https://github.com/agentcycode/release"
 }
