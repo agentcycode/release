@@ -1,5 +1,5 @@
 {
-  "version": "1.2.36",
-  "notes": "Fixes 'quota unknown' and gateway connection failures on certain networks, and removes a console window that briefly flashed at launch on Windows. Update recommended.",
+  "version": "1.2.37",
+  "notes": "UI refinements: consecutive shell commands now collapse into one group, and clearer wording when a session still has scheduled tasks.",
   "url": "https://github.com/agentcycode/release"
 }
