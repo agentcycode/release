@@ -1,5 +1,5 @@
 {
-  "version": "1.2.37",
-  "notes": "UI refinements: consecutive shell commands now collapse into one group, and clearer wording when a session still has scheduled tasks.",
+  "version": "1.2.39",
+  "notes": "Fewer forced file re-reads before edits (touched-but-unchanged files no longer block). Shell commands and file edits now fold into tidy groups, plus assorted UI polish.",
   "url": "https://github.com/agentcycode/release"
 }
