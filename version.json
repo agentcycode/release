@@ -1,5 +1,5 @@
 {
-  "version": "1.2.39",
-  "notes": "Fewer forced file re-reads before edits (touched-but-unchanged files no longer block). Shell commands and file edits now fold into tidy groups, plus assorted UI polish.",
+  "version": "1.2.40",
+  "notes": "New: AgentcyToken trading tools built into the agent — check accounts, read market data, and place orders (non-custodial), with an order-confirmation step. Minor UI wording tweaks.",
   "url": "https://github.com/agentcycode/release"
 }
