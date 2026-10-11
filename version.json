@@ -1,5 +1,5 @@
 {
-  "version": "1.2.40",
-  "notes": "New: AgentcyToken trading tools built into the agent — check accounts, read market data, and place orders (non-custodial), with an order-confirmation step. Minor UI wording tweaks.",
+  "version": "1.2.41",
+  "notes": "Fixes the \"please upgrade\" notice so it no longer shows a stale version number. Minor polish.",
   "url": "https://github.com/agentcycode/release"
 }
