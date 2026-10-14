@@ -1,5 +1,5 @@
 {
-  "version": "1.2.41",
-  "notes": "Fixes the \"please upgrade\" notice so it no longer shows a stale version number. Minor polish.",
+  "version": "1.2.42",
+  "notes": "Windows: the installer now bundles the WebView2 runtime, fixing a startup crash on clean machines and removing the install-time download. Other platforms unchanged.",
   "url": "https://github.com/agentcycode/release"
 }
