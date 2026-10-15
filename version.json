@@ -1,5 +1,5 @@
 {
-  "version": "1.2.41",
-  "notes": "Fixes the \"please upgrade\" notice so it no longer shows a stale version number. Minor polish.",
+  "version": "1.2.42",
+  "notes": "Windows: fixes a startup crash caused by VPN/proxy software (e.g. Astrill's Winsock LSP) injecting into the app — it now launches even with such software running. Other platforms unchanged.",
   "url": "https://github.com/agentcycode/release"
 }
