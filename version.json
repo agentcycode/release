@@ -1,5 +1,5 @@
 {
-  "version": "1.2.43",
-  "notes": "Trading: the close action now supports partial closes (pass a quantity) in addition to closing the whole position. Minor refinements.",
+  "version": "1.2.45",
+  "notes": "New: send USDT (BEP20) right inside AgentcyCode. The agent checks your wallet, previews the network fee, and a secure password dialog confirms every transfer — your pay password stays on your device and is never shared with the AI. Plus UI refinements.",
   "url": "https://github.com/agentcycode/release"
 }
