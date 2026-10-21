@@ -1,5 +1,5 @@
 {
-  "version": "1.2.54",
-  "notes": "Reliability: outgoing requests auto-retry on transient TLS/network hiccups (fixes an occasional 'certificate verification error' on some Windows setups). Clearer agent-task permission messages. Lite/Pro model selector in the input bar.",
+  "version": "1.2.55",
+  "notes": "Wallet: send USDT to a friend by username or id (no address needed). Plus the transient-retry reliability fix for occasional 'certificate verification error' and the Lite/Pro model selector.",
   "url": "https://github.com/agentcycode/release"
 }
