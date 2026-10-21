@@ -1,5 +1,5 @@
 {
-  "version": "1.2.50",
-  "notes": "Lite: pick your model right from the input bar — Flash (default, faster and lighter) or Professional (more thorough answers, uses more quota). Plus the earlier in-app USDT (BEP20) transfers with a secure password dialog.",
+  "version": "1.2.52",
+  "notes": "Lite: switch your model right from the input bar — Lite (default, faster and lighter) or Pro (more thorough answers, uses more quota). Refined selector styling.",
   "url": "https://github.com/agentcycode/release"
 }
