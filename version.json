@@ -1,5 +1,5 @@
 {
-  "version": "1.2.52",
-  "notes": "Lite: switch your model right from the input bar — Lite (default, faster and lighter) or Pro (more thorough answers, uses more quota). Refined selector styling.",
+  "version": "1.2.53",
+  "notes": "Reliability: outgoing requests now auto-retry on transient TLS/network hiccups, fixing an occasional 'certificate verification error' on some Windows setups. Includes the Lite/Pro model selector in the input bar.",
   "url": "https://github.com/agentcycode/release"
 }
