@@ -1,5 +1,5 @@
 {
-  "version": "1.2.53",
-  "notes": "Reliability: outgoing requests now auto-retry on transient TLS/network hiccups, fixing an occasional 'certificate verification error' on some Windows setups. Includes the Lite/Pro model selector in the input bar.",
+  "version": "1.2.54",
+  "notes": "Reliability: outgoing requests auto-retry on transient TLS/network hiccups (fixes an occasional 'certificate verification error' on some Windows setups). Clearer agent-task permission messages. Lite/Pro model selector in the input bar.",
   "url": "https://github.com/agentcycode/release"
 }
