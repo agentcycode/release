@@ -1,5 +1,5 @@
 {
-  "version": "1.2.55",
-  "notes": "Wallet: send USDT to a friend by username or id (no address needed). Plus the transient-retry reliability fix for occasional 'certificate verification error' and the Lite/Pro model selector.",
+  "version": "1.2.56",
+  "notes": "New built-in skill: diagram-design — generate branded architecture, flowchart, sequence, ER, timeline, Sankey, Gantt and 40+ other diagram types as HTML/SVG, available in every mode.",
   "url": "https://github.com/agentcycode/release"
 }
