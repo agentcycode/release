@@ -1,5 +1,5 @@
 {
-  "version": "1.2.56",
-  "notes": "New built-in skill: diagram-design — generate branded architecture, flowchart, sequence, ER, timeline, Sankey, Gantt and 40+ other diagram types as HTML/SVG, available in every mode.",
+  "version": "1.2.57",
+  "notes": "Diagrams: just ask to draw a flowchart, architecture, sequence, ER, Gantt and more — the diagram-design skill now triggers automatically, or use the new /diagram command.",
   "url": "https://github.com/agentcycode/release"
 }
