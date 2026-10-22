@@ -1,5 +1,5 @@
 {
-  "version": "1.2.58",
-  "notes": "Polish: the /diagram command now shows a concise localized description. Ask to draw a flowchart, architecture, sequence, ER or Gantt chart and it just works.",
+  "version": "1.2.59",
+  "notes": "Lite: a quick light/dark theme toggle now sits in the sidebar, just above your avatar.",
   "url": "https://github.com/agentcycode/release"
 }
