@@ -1,5 +1,5 @@
 {
-  "version": "1.2.61",
-  "notes": "Linux (arm64): fixed bundled ripgrep so in-app file search and grep work correctly.",
+  "version": "1.2.62",
+  "notes": "Fixed a rare failure to create a chat session (foreign key error) for projects whose version-control state had changed.",
   "url": "https://github.com/agentcycode/release"
 }
