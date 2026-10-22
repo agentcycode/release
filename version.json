@@ -1,5 +1,5 @@
 {
-  "version": "1.2.57",
-  "notes": "Diagrams: just ask to draw a flowchart, architecture, sequence, ER, Gantt and more — the diagram-design skill now triggers automatically, or use the new /diagram command.",
+  "version": "1.2.58",
+  "notes": "Polish: the /diagram command now shows a concise localized description. Ask to draw a flowchart, architecture, sequence, ER or Gantt chart and it just works.",
   "url": "https://github.com/agentcycode/release"
 }
