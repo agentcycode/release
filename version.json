@@ -1,5 +1,5 @@
 {
-  "version": "1.2.60",
-  "notes": "The quick light/dark theme toggle above your avatar is now available in every edition, not just Lite.",
+  "version": "1.2.61",
+  "notes": "Linux (arm64): fixed bundled ripgrep so in-app file search and grep work correctly.",
   "url": "https://github.com/agentcycode/release"
 }
