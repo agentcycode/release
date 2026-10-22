@@ -1,5 +1,5 @@
 {
-  "version": "1.2.59",
-  "notes": "Lite: a quick light/dark theme toggle now sits in the sidebar, just above your avatar.",
+  "version": "1.2.60",
+  "notes": "The quick light/dark theme toggle above your avatar is now available in every edition, not just Lite.",
   "url": "https://github.com/agentcycode/release"
 }
