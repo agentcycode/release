@@ -1,5 +1,5 @@
 {
-  "version": "1.2.62",
-  "notes": "Fixed a rare failure to create a chat session (foreign key error) for projects whose version-control state had changed.",
+  "version": "1.2.63",
+  "notes": "Trading: added stop-loss / take-profit, one-click bracket, trailing stops, and order view / cancel / update-stop tools.",
   "url": "https://github.com/agentcycode/release"
 }
