@@ -1,5 +1,5 @@
 {
-  "version": "1.2.68",
-  "notes": "The version number now sits as a small badge in the account menu; trading order/cancel history tools surface more detail.",
+  "version": "1.2.70",
+  "notes": "Refined the version label in the account menu; trading order/cancel history tools surface more detail.",
   "url": "https://github.com/agentcycode/release"
 }
