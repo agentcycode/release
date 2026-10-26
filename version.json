@@ -1,5 +1,5 @@
 {
-  "version": "1.2.63",
-  "notes": "Trading: added stop-loss / take-profit, one-click bracket, trailing stops, and order view / cancel / update-stop tools.",
+  "version": "1.2.64",
+  "notes": "Trading: added a per-order cancel tool to cancel a single resting order (e.g. just the stop leg) without touching the others.",
   "url": "https://github.com/agentcycode/release"
 }
