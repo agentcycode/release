@@ -1,5 +1,5 @@
 {
-  "version": "1.2.66",
-  "notes": "Trading: added order-history and cancel-history tools to check whether and when an order was cancelled.",
+  "version": "1.2.67",
+  "notes": "Trading: order history now treats EXPIRED reduce-only orders as a cancel-like state for clearer cancel reporting.",
   "url": "https://github.com/agentcycode/release"
 }
