@@ -1,5 +1,5 @@
 {
-  "version": "1.2.65",
-  "notes": "Trading: clearer guidance when a symbol is not on the account allowlist (add it or enable 'any symbol').",
+  "version": "1.2.66",
+  "notes": "Trading: added order-history and cancel-history tools to check whether and when an order was cancelled.",
   "url": "https://github.com/agentcycode/release"
 }
