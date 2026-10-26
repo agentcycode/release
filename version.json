@@ -1,5 +1,5 @@
 {
-  "version": "1.2.64",
-  "notes": "Trading: added a per-order cancel tool to cancel a single resting order (e.g. just the stop leg) without touching the others.",
+  "version": "1.2.65",
+  "notes": "Trading: clearer guidance when a symbol is not on the account allowlist (add it or enable 'any symbol').",
   "url": "https://github.com/agentcycode/release"
 }
