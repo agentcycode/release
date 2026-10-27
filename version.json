@@ -1,5 +1,5 @@
 {
-  "version": "1.2.70",
-  "notes": "Refined the version label in the account menu; trading order/cancel history tools surface more detail.",
+  "version": "1.2.72",
+  "notes": "Trading: added a symbol-info tool (price and order limits) so orders are sized correctly before submitting.",
   "url": "https://github.com/agentcycode/release"
 }
