@@ -1,5 +1,5 @@
 {
-  "version": "1.2.74",
-  "notes": "Scheduled tasks pick up carry-history requests more reliably; minor scheduling improvements.",
+  "version": "1.2.75",
+  "notes": "Opening a session now shows a placeholder for the reply while it renders, so chats open without a blank gap.",
   "url": "https://github.com/agentcycode/release"
 }
