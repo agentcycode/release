@@ -1,5 +1,5 @@
 {
-  "version": "1.2.73",
-  "notes": "Scheduled tasks now show their run limit; added a tool to check your remaining usage balance so the assistant can budget tokens.",
+  "version": "1.2.74",
+  "notes": "Scheduled tasks pick up carry-history requests more reliably; minor scheduling improvements.",
   "url": "https://github.com/agentcycode/release"
 }
