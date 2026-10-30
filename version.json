@@ -1,5 +1,5 @@
 {
-  "version": "1.2.75",
-  "notes": "Opening a session now shows a placeholder for the reply while it renders, so chats open without a blank gap.",
+  "version": "1.2.76",
+  "notes": "Edits to a skill now take effect without restarting the app, and any skill skipped due to an invalid SKILL.md is reported with the reason so you can fix it.",
   "url": "https://github.com/agentcycode/release"
 }
