@@ -1,5 +1,5 @@
 {
-  "version": "1.2.76",
-  "notes": "Edits to a skill now take effect without restarting the app, and any skill skipped due to an invalid SKILL.md is reported with the reason so you can fix it.",
+  "version": "1.2.77",
+  "notes": "Long-running shell commands (installs, builds, timed waits) are less likely to be cut off at the 2-minute limit — the assistant is now reminded to set an explicit timeout for them.",
   "url": "https://github.com/agentcycode/release"
 }
