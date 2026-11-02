@@ -1,5 +1,5 @@
 {
-  "version": "1.2.77",
-  "notes": "Long-running shell commands (installs, builds, timed waits) are less likely to be cut off at the 2-minute limit — the assistant is now reminded to set an explicit timeout for them.",
+  "version": "1.2.78",
+  "notes": "Scheduled tasks are more flexible: you can now ask the assistant to run a task immediately — handy for catching up a missed run — and long periodic tasks are less likely to be cut off, since the assistant can raise a task's per-run time limit when its runs legitimately need longer.",
   "url": "https://github.com/agentcycode/release"
 }
