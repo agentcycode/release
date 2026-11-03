@@ -1,5 +1,5 @@
 {
-  "version": "1.2.79",
-  "notes": "Refinement to the new run-a-task-now action: when a scheduled task can't be triggered from its own chat, the assistant now clearly tells you to open a separate chat and run it there.",
+  "version": "1.2.80",
+  "notes": "Two refinements: the assistant's auto-suggested next step is now held for you (not auto-sent) when it's meant for a specific later time or must wait for something to finish; and after the screen is locked, the view reconnects and catches up instead of staying frozen on the last frame.",
   "url": "https://github.com/agentcycode/release"
 }
