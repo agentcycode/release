@@ -1,5 +1,5 @@
 {
-  "version": "1.2.80",
-  "notes": "Two refinements: the assistant's auto-suggested next step is now held for you (not auto-sent) when it's meant for a specific later time or must wait for something to finish; and after the screen is locked, the view reconnects and catches up instead of staying frozen on the last frame.",
+  "version": "1.2.81",
+  "notes": "The assistant's auto next-step suggestion is more reliable on long conversations: it now waits adaptively (and retries once) for the model to finish instead of coming back empty, and a slow suggestion can no longer overwrite a newer one.",
   "url": "https://github.com/agentcycode/release"
 }
