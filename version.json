@@ -1,5 +1,5 @@
 {
-  "version": "1.2.83",
-  "notes": "Scheduled-task reliability and follow-through: a stuck filesystem check can no longer hang a run (it fails fast instead), and after a scheduled task finishes the assistant's next-step suggestion now sees the whole conversation again, so it can return to an earlier unanswered question instead of only addressing the scheduled task.",
+  "version": "1.2.84",
+  "notes": "Scheduled tasks: when you ask the assistant to delete a scheduled task it now does so reliably and completely, and it clearly distinguishes deleting a task (permanent) from merely pausing one (can be resumed later).",
   "url": "https://github.com/agentcycode/release"
 }
