@@ -1,5 +1,5 @@
 {
-  "version": "1.2.84",
-  "notes": "Scheduled tasks: when you ask the assistant to delete a scheduled task it now does so reliably and completely, and it clearly distinguishes deleting a task (permanent) from merely pausing one (can be resumed later).",
+  "version": "1.2.85",
+  "notes": "Scheduled tasks: you can now ask the assistant to read a task back and confirm its full prompt and settings landed exactly as intended after an edit, so changes to a task can be verified rather than assumed.",
   "url": "https://github.com/agentcycode/release"
 }
