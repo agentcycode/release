@@ -1,5 +1,5 @@
 {
-  "version": "1.2.87",
-  "notes": "Scheduled trading tasks can now request custom moving-average and volatility periods when reading market candles in-process, so strategies that rely on non-default EMA/ATR settings get the exact indicators they need.",
+  "version": "1.2.88",
+  "notes": "Scheduled trading tasks can now read a whole watchlist of symbols in one in-process call and choose the exact indicator settings they rely on, so a full market scan stays affordable and keeps working while the screen is locked.",
   "url": "https://github.com/agentcycode/release"
 }
