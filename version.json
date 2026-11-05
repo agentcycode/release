@@ -1,5 +1,5 @@
 {
-  "version": "1.2.85",
-  "notes": "Scheduled tasks: you can now ask the assistant to read a task back and confirm its full prompt and settings landed exactly as intended after an edit, so changes to a task can be verified rather than assumed.",
+  "version": "1.2.86",
+  "notes": "Scheduled tasks are more reliable while the screen is locked: fetching market candle (K-line) data now runs in-process instead of shelling out, so a scheduled run no longer stalls waiting for a suspended helper process during a lock.",
   "url": "https://github.com/agentcycode/release"
 }
