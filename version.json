@@ -1,5 +1,5 @@
 {
-  "version": "1.2.88",
-  "notes": "Scheduled trading tasks can now read a whole watchlist of symbols in one in-process call and choose the exact indicator settings they rely on, so a full market scan stays affordable and keeps working while the screen is locked.",
+  "version": "1.2.89",
+  "notes": "Scheduled trading tasks can now rank the whole market by 24h turnover in one in-process call and skip frozen/delisted symbols automatically, so a full market scan picks its watchlist and reads indicators without any local helper processes — and keeps working while the screen is locked.",
   "url": "https://github.com/agentcycode/release"
 }
