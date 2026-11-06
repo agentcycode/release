@@ -1,6 +1,5 @@
 {
-  "version": "1.2.96",
-  "notes": "Auto-decision: a new setting lets you choose how many recent conversation rounds the next-step suggestion includes (full history, 20, 10, 5, or 3)."
- ,
+  "version": "1.2.97",
+  "notes": "Auto-decision now reliably runs at your selected level through the metered gateway. Lite and the full edition also keep separate settings, so they no longer interfere when both are installed on the same machine.",
   "url": "https://github.com/agentcycode/release"
 }
