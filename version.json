@@ -1,5 +1,5 @@
 {
-  "version": "1.2.90",
-  "notes": "Scheduled trading tasks can now filter the market ranking by asset class (for example crypto only), so a full market scan excludes tokenized stocks, commodities and stablecoins in one in-process call without maintaining symbol lists.",
+  "version": "1.2.91",
+  "notes": "Lite: a new auto-decision level control (Ultra / Max / High / Medium / Low) in the model menu lets you choose how thorough the assistant's next-step suggestion is, trading off model strength and how much history it reads against speed and cost.",
   "url": "https://github.com/agentcycode/release"
 }
