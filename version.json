@@ -1,5 +1,6 @@
 {
-  "version": "1.2.93",
-  "notes": "Lite: further refinements to the auto-decision level menu wording.",
+  "version": "1.2.94",
+  "notes": "Lite: the auto-decision level you pick is now saved reliably (fixes the selection snapping back to the default)."
+ ,
   "url": "https://github.com/agentcycode/release"
 }
