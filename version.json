@@ -1,6 +1,6 @@
 {
-  "version": "1.2.94",
-  "notes": "Lite: the auto-decision level you pick is now saved reliably (fixes the selection snapping back to the default)."
+  "version": "1.2.95",
+  "notes": "Lite: changing the auto-decision level while the assistant is replying now shows a brief notice instead of interrupting the reply."
  ,
   "url": "https://github.com/agentcycode/release"
 }
