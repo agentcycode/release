@@ -1,5 +1,5 @@
 {
-  "version": "1.2.98",
-  "notes": "Lite auto-decision now runs at the Ultra level shown by default, so a fresh install uses the intended level right away instead of falling back until you re-pick it. The full edition is unaffected.",
+  "version": "1.2.99",
+  "notes": "The Lite auto-decision menu now has an Enable auto-decision switch (on by default). Turning it off stops next-step suggestions, the same as turning off the setting in the full edition.",
   "url": "https://github.com/agentcycode/release"
 }
